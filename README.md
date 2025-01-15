@@ -107,7 +107,7 @@ python evaluate.py --base_path .
 ```
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT](https://github.com/NiharP31/SFM/blob/main/LICENSE) License.
 
 ## Acknowledgments
 - KITTI Dataset [Link](https://www.cvlibs.net/datasets/kitti/user_login.php)
