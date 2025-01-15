@@ -1,5 +1,3 @@
-# SFM
-
 # 3D Scene Understanding Pipeline for KITTI Dataset
 
 A comprehensive pipeline for processing KITTI dataset images through preprocessing, 3D reconstruction, object detection, semantic segmentation, and evaluation.
@@ -30,7 +28,7 @@ Required packages:
 - tqdm
 
 ### Dataset
-Download the KITTI dataset from the official website[10]. The expected folder structure is:
+Download the KITTI dataset from the official website[10](https://www.cvlibs.net/datasets/kitti/raw_data.php). The expected folder structure is:
 ```
 data/
 ├── 2011_09_26_calib/
