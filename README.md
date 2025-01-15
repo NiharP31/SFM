@@ -3,7 +3,7 @@
 A comprehensive pipeline for processing KITTI dataset images through preprocessing, 3D reconstruction, object detection, semantic segmentation, and evaluation.
 
 <video width="600" controls>
-  <source src="vizualization_output/sequence_visualization.mp4" type="video/mp4">
+  <source src="visualization_output/sequence_visualization.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
