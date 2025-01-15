@@ -1,0 +1,15 @@
+# Ignore Python-related files
+__pycache__/
+*.py[cod]
+*.pyo
+
+#ignore folders
+data/
+detection_output/
+evaluation_report/
+preprocessed_data/
+reconstruction_output/
+segmentation_output/
+
+run.sh
+yolov8n.pt
