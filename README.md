@@ -1,4 +1,4 @@
-# 3D Scene Understanding Pipeline for KITTI Dataset
+# 3D Scene Understanding for Autonomous Driving
 
 A comprehensive pipeline for processing KITTI dataset images through preprocessing, 3D reconstruction, object detection, semantic segmentation, and evaluation.
 
