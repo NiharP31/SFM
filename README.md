@@ -33,17 +33,7 @@ Required packages:
 - tqdm
 
 ### Dataset
-Download the KITTI dataset from the official [website](https://www.cvlibs.net/datasets/kitti/raw_data.php). The expected folder structure is:
-```
-data/
-├── 2011_09_26_calib/
-├── 2011_09_26_drive_0009_sync/
-│   ├── image_00/
-│   ├── image_01/
-│   ├── image_02/
-│   └── image_03/
-└── timestamps.txt
-```
+Download the KITTI dataset from the official [website](https://www.cvlibs.net/datasets/kitti/raw_data.php).
 
 ## Pipeline Components
 
@@ -101,15 +91,6 @@ python segment.py --input preprocessed_data --output segmentation_output
 python evaluate.py --base_path .
 ```
 
-## Output Structure
-```
-./
-├── preprocessed_data/
-├── reconstruction_output/
-├── detection_output/
-├── segmentation_output/
-└── evaluation_report/
-```
 
 ## License
 This project is licensed under the [MIT](https://github.com/NiharP31/SFM/blob/main/LICENSE) License.
